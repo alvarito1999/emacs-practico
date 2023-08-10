@@ -1,0 +1,4 @@
+const aBigNumber = 3546584625409854656531653n;
+const anotherBigNumber = BigInt(3546584625409854656531653);
+console.log(aBigNumber); //3546584625409854656531653n
+console.log(anotherBigNumber); //3546584625409854656531653n
